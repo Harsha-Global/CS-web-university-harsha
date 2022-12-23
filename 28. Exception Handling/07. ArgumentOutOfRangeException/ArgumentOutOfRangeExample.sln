@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArgumentOutOfRangeExample", "ArgumentOutOfRangeExample\ArgumentOutOfRangeExample.csproj", "{01929305-747A-4AEB-8194-437C168DFE7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01929305-747A-4AEB-8194-437C168DFE7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01929305-747A-4AEB-8194-437C168DFE7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01929305-747A-4AEB-8194-437C168DFE7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01929305-747A-4AEB-8194-437C168DFE7B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C7B7310-11CB-42E4-8BB9-DC7FB085046B}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PatternMatchingExample", "PatternMatchingExample\PatternMatchingExample.csproj", "{588F540C-84F9-44F7-9B8C-A703A6D29D57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary1", "ClassLibrary1\ClassLibrary1.csproj", "{A7B98AA4-C74B-45EB-B2F0-A608453E4CE9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{588F540C-84F9-44F7-9B8C-A703A6D29D57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{588F540C-84F9-44F7-9B8C-A703A6D29D57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{588F540C-84F9-44F7-9B8C-A703A6D29D57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{588F540C-84F9-44F7-9B8C-A703A6D29D57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7B98AA4-C74B-45EB-B2F0-A608453E4CE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7B98AA4-C74B-45EB-B2F0-A608453E4CE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7B98AA4-C74B-45EB-B2F0-A608453E4CE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7B98AA4-C74B-45EB-B2F0-A608453E4CE9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ADC16559-5324-4272-8DF7-CEB29D566FAD}
+	EndGlobalSection
+EndGlobal

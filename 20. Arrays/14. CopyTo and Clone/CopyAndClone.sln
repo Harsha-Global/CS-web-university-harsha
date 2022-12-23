@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CopyAndClone", "CopyAndClone\CopyAndClone.csproj", "{994352BF-D637-4472-87E4-D325A1450AE9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{994352BF-D637-4472-87E4-D325A1450AE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{994352BF-D637-4472-87E4-D325A1450AE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{994352BF-D637-4472-87E4-D325A1450AE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{994352BF-D637-4472-87E4-D325A1450AE9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE40C115-CD0E-4238-8694-BA8A8A2FD0D6}
+	EndGlobalSection
+EndGlobal
